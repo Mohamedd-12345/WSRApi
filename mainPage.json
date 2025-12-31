@@ -1,0 +1,32 @@
+{
+    "featuredApps" : {
+        "appNames": [
+            "weatherRetiled",
+            "newsRetiled",
+            "freshPaint",
+            "cutTheRope",
+            "twitterBlueTweety",
+            "openTracks"
+        ]
+    },
+    "topApps" : {
+        "appNames" : [
+            "myTube",
+            "adobePhotoshop",
+            "openTracks",
+            "networkSpeedTest",
+            "kindle",
+            "financeRetiled"
+        ]
+    },
+    "topGames" : {
+        "appNames" : [
+            "angryBirdsSpace",
+            "angryBirdsStarWars",
+            "cutTheRope",
+            "whereismyWater",
+            "fruitNinja",
+            "raymanJungleRun"
+        ]
+    }
+}
