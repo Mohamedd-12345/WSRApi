@@ -22,7 +22,7 @@
     "topGames" : {
         "appNames" : [
             "angryBirdsSpace",
-            "angryBirdsStarWars",
+            "msMinesweeper",
             "cutTheRope",
             "whereismyWater",
             "fruitNinja",
@@ -30,5 +30,6 @@
         ]
     }
 }
+
 
 
