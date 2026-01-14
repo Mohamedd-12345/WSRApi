@@ -5,6 +5,7 @@
     "angryBirdsStarWars",
     "crossyRoad",
     "cutTheRope",
+    "cutTheRope2",
     "financeRetiled",
     "freshPaint",
     "food&drinkRetiled",
@@ -16,15 +17,21 @@
     "networkSpeedTest",
     "newsRetiled",
     "openTracks",
+    "raymanFiestaRun",
     "raymanJungleRun",
     "sonicDash",
     "sportsRetiled",
+    "survivalCraft2",
+    "talkingBen",
+    "talkingTom",
+    "talkingTom2",
     "templeRunOz",
     "travelRetiled",
     "twitterBlueTweety",
     "weatherRetiled",
     "whereismyWhater",
+    "xboxApp",
     "xboxGamesAppRetiled"
   ],
-  "width" : "1000px"
+  "width" : "1200px"
 }
