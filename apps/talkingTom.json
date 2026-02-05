@@ -1,7 +1,8 @@
 {
     "displayname" : "Talking Tom",
+    "fileType" : ".appx",
+    "pulisherName" : "Outfit7",
     "productType" : "game",
-    "pulisherName" : "",
     "category" : "",
     "imgUrl" : "https://raw.githubusercontent.com/Mohamedd-12345/WSRApi/main/images/talkingtom.png",
     "downloadUri" : "https://dankassassin368.com/Stuff/APPX/Windows%208.1%20APPX%20Files/Games/TalkingTom/app.appx"
