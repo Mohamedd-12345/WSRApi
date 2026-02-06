@@ -3,6 +3,6 @@
     "productType" : "app",
     "pulisherName" : "comicide",
     "category" : "",
-    "imgUrl" : "",
-    "downloadUri" : ""
+    "imgUrl" : "https://raw.githubusercontent.com/Mohamedd-12345/WSRApi/main/images/TNotes.png",
+    "downloadUri" : "https://raw.githubusercontent.com/Mohamedd-12345/WSRApi/main/APPXs/T-Notes_4.12.9600.0_AnyCPU.appx"
 }
