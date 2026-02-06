@@ -1,8 +1,8 @@
 {
-    "displayname" : "Re Consumer Preview",
-    "productType" : "Bundle",
+    "displayname" : "Re consumer preview",
+    "productType" : "app",
     "category" : "productivity",
-    "fileType" : ".zip",
-    "imgUrl" : "",
-    "downloadUri" : "https://raw.githubusercontent.com/Mohamedd-12345/WSRTESTAPI/main/Packages/ReConsumerPreview.zip"
+    "publisherName" : "OpenGlebsur",
+    "imgUrl" : "https://raw.githubusercontent.com/Mohamedd-12345/WSRApi/main/images/ReConsumerPreview.png",
+    "downloadUri" : "https://raw.githubusercontent.com/Mohamedd-12345/WSRTESTAPI/main/APPXs/ReConsumerPreView.zip"
 }
