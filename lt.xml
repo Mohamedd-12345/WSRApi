@@ -1,3 +1,22 @@
-<binding template="TileLarge">
-  <image src="images/news.png" hint-align="left" hint-weight="1"/>
-</binding>
+<tile>
+  <visual>
+
+    <binding template="TileSmall">
+      <text>Small</text>
+    </binding>
+
+    <binding template="TileMedium">
+      <text>Medium</text>
+    </binding>
+
+    <binding template="TileWide">
+      <text>Wide</text>
+    </binding>
+    
+    <binding template="TileLarge">
+      <image src="images/news.png" hint-align="left" hint-weight="1"/>
+      <text>News</text>
+    </binding>
+
+  </visual>
+</tile>
