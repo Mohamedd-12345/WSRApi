@@ -1,0 +1,3 @@
+<binding template="TileLarge">
+  <image src="images/news.png" hint-align="left" hint-weight="1"/>
+</binding>
