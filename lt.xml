@@ -14,9 +14,9 @@
     </binding>
     
     <binding template="TileLarge">
-      <image src="images/news.png" hint-align="left" hint-weight="1"/>
-      <text>News</text>
+      <text>Large</text>
     </binding>
 
   </visual>
 </tile>
+
