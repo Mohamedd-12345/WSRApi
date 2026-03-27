@@ -10,12 +10,20 @@
       <text>"Coming Soon"</text>
     </binding>
 
+    <binding template="TileMedium">
+      <text>Cut The Rope</text>
+    </binding>
+    
     <binding template="TileWide">
+      <image src="https://raw.githubusercontent.com/Mohamedd-12345/WSRApi/main/images/CutTheRope.png" hint-align="left"/>
+      <text>Cut The Rope</text>
       <text>Live Tiles</text>
       <text>"Coming Soon""</text>
     </binding>
 
     <binding template="TileLarge">
+      <image src="https://raw.githubusercontent.com/Mohamedd-12345/WSRApi/main/images/CutTheRope.png" hint-align="left"/>
+      <text>Cut The Rope</text>
       <text>Live Tiles</text>
       <text>"Coming Soon"</text>
     </binding>
