@@ -2,7 +2,7 @@
   <visual>
 
     <binding template="TileSmall">
-      <text>Small</text>
+      <text>ReStore</text>
     </binding>
 
     <binding template="TileMedium">
@@ -11,11 +11,13 @@
     </binding>
 
     <binding template="TileWide">
-      <text>Wide</text>
+      <text>Live Tiles</text>
+      <text>"Coming Soon"</text>
     </binding>
 
     <binding template="TileLarge">
-      <text>Large</text>
+      <text>Live Tiles</text>
+      <text>"Coming Soon"</text>
     </binding>
 
   </visual>
