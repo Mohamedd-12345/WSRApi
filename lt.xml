@@ -12,7 +12,7 @@
 
     <binding template="TileWide">
       <text>Live Tiles</text>
-      <text>"Coming Soon"</text>
+      <text>"Coming Soon""</text>
     </binding>
 
     <binding template="TileLarge">
