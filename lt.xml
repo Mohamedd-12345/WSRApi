@@ -11,7 +11,7 @@
     </binding>
 
     <binding template="TileMedium">
-      <text>Cut The Rope</text>
+      <text>Cut Thee Rope</text>
     </binding>
     
     <binding template="TileWide">
