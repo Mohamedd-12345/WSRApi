@@ -12,11 +12,10 @@
     <binding template="TileWide">
       <text>Wide</text>
     </binding>
-    
+
     <binding template="TileLarge">
       <text>Large</text>
     </binding>
 
   </visual>
 </tile>
-
