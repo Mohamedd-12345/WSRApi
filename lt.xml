@@ -6,21 +6,17 @@
     </binding>
 
     <binding template="TileMedium">
-      <text>Livee Tiles</text>
+      <text>Live Tiles</text>
       <text>"Coming Soon"</text>
     </binding>
-
-    <binding template="TileMedium">
-      <text>Cut Thee Rope</text>
-    </binding>
     
-    <binding template="TileWide">
+    <binding template="TileWide310x150SmallImageAndText02">
       <image hint-weight="2" src="https://raw.githubusercontent.com/Mohamedd-12345/WSRApi/main/images/CutTheRope.png" hint-align="left"/>
       <image hint-weight="1" src="https://raw.githubusercontent.com/Mohamedd-12345/WSRApi/main/images/CutTheRope.png" hint-align="left"/>
       <text>Cut The Rope</text>
     </binding>
 
-    <binding template="TileLarge">
+    <binding template="TileSquare310x310SmallImageAndText01">
       <image src="https://raw.githubusercontent.com/Mohamedd-12345/WSRApi/main/images/CutTheRope.png" hint-align="left"/>
       <text>Cut The Rope</text>
       <text>Live Tiles</text>
