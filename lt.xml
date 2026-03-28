@@ -6,7 +6,7 @@
     </binding>
 
     <binding template="TileMedium">
-      <text>Live Tiles</text>
+      <text>Live Tile</text>
       <text>"Coming Soon"</text>
     </binding>
     
