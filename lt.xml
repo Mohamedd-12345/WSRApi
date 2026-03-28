@@ -7,7 +7,7 @@
 
     <binding template="TileMedium">
       <text>Live Tile</text>
-      <text>"Coming Sooon"</text>
+      <text>"Coming Soon"</text>
     </binding>
     
     <binding template="TileWide310x150SmallImageAndText02">
