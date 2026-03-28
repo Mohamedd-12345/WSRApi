@@ -11,9 +11,12 @@
     </binding>
     
     <binding template="TileWide310x150SmallImageAndText02">
-      <image hint-weight="2" src="https://raw.githubusercontent.com/Mohamedd-12345/WSRApi/main/images/CutTheRope.png" hint-align="left"/>
-      <image hint-weight="1" src="https://raw.githubusercontent.com/Mohamedd-12345/WSRApi/main/images/CutTheRope.png" hint-align="left"/>
-      <text>Cut The Rope</text>
+      <image id="1" hint-weight="2" src="https://raw.githubusercontent.com/Mohamedd-12345/WSRApi/main/images/CutTheRope.png" hint-align="left"/>
+      <text id="1">Cut The Rope</text>
+      <text id="2">by: Ziptolap</text>
+      <text id="3">Free</text>
+      <text id="4">..</text>
+      <text id="5">..</text>
     </binding>
 
     <binding template="TileSquare310x310SmallImageAndText01">
