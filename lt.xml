@@ -7,11 +7,11 @@
 
     <binding template="TileMedium">
       <text>Live Tile</text>
-      <text>"Coming Soon"</text>
+      <text>"Coming Sooon"</text>
     </binding>
     
     <binding template="TileWide310x150SmallImageAndText02">
-      <image id="1" hint-weight="2" src="https://raw.githubusercontent.com/Mohamedd-12345/WSRApi/main/images/CutTheRope.png" hint-align="left"/>
+      <image id="1" hint-weight="2" src="https://raw.githubusercontent.com/Mohamedd-12345/WSRApi/main/images/CutTheRope.png" hint-align="left" hint-corp="none"/>
       <text id="1">Cut The Rope</text>
       <text id="2">by: Ziptolap</text>
       <text id="3">Free</text>
@@ -20,10 +20,12 @@
     </binding>
 
     <binding template="TileSquare310x310SmallImageAndText01">
-      <image src="https://raw.githubusercontent.com/Mohamedd-12345/WSRApi/main/images/CutTheRope.png" hint-align="left"/>
-      <text>Cut The Rope</text>
-      <text>Live Tiles</text>
-      <text>"Coming Soon"</text>
+      <image id="1" hint-weight="2" src="https://raw.githubusercontent.com/Mohamedd-12345/WSRApi/main/images/CutTheRope.png" hint-align="left" hint-corp="none"/>
+      <text id="1">Cut The Rope</text>
+      <text id="2">by: Ziptolap</text>
+      <text id="3">Free</text>
+      <text id="4">..</text>
+      <text id="5">..</text>
     </binding>
 
   </visual>
