@@ -1,0 +1,9 @@
+{
+    "displayname" : "CnWeather Desktop",
+    "productType" : "app",
+    "publisherName" : "chockingnetdude",
+    "fileType" : ".appx",
+    "category" : "",
+    "imgUrl" : "https://i.postimg.cc/hzff7Rs3/Logo-scale-100.png",
+    "downloadUri" : "https://github.com/OpenGlebsur/openglebsur.github.io/raw/refs/heads/main/CnWeather_M1.appx"
+}
